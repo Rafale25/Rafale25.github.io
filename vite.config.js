@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    base: '/Rafale25.github.io/',
+    base: '/',
+    // base: '/Rafale25.github.io/',
 })
